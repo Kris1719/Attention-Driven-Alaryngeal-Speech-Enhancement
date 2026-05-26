@@ -9,11 +9,12 @@ Paper :
 
 Demo Page :  https://kris1719.github.io/ADASE/
 
-Pretrained-model : 
+Pretrained-model : Please access to the releases
 
 ## Training Configurations
 
 ## Inference Configurations
+
 
 
 
