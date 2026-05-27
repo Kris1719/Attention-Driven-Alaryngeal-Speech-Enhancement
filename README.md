@@ -11,9 +11,19 @@ Demo Page :  https://kris1719.github.io/ADASE/
 
 Pretrained-model : Please access to the releases
 
+
+
 ## Training Configurations
 
 ## Inference Configurations
+
+
+## Reference
+
+SELM : https://doi.org/10.48550/arXiv.2312.09747
+kNN-VC : https://doi.org/10.48550/arXiv.2305.18975
+
+
 
 
 
