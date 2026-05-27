@@ -1,5 +1,5 @@
 # Attention-Driven-Alaryngeal-Speech-Enhancement
-This repository contains the source code for training and inferencing of our work titled "Attention-Driven Alaryngeal Speech Enhancement via Discrete Representation Learning and Timbre-Preserving Augmentation". 
+This repository contains the source code for training and inferencing of our work titled "Attention-Driven Alaryngeal Speech Enhancement via Discrete Representation Learning and Timbre-Preserving Augmentation". In compliance with ethical guidelines and to protect patient privacy, the speech datasets used in this work are not publicly releaseed.
 
 ## Overall Pipeline
 ![Overall Pipeline](assets/pipeline.png)
